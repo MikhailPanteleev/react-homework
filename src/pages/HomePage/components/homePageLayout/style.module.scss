@@ -1,0 +1,17 @@
+.counterPageLink {
+    display: flex;
+	align-items: center;
+    flex-direction: column;
+	margin:  20px auto ;
+	width: 300px;
+	border-radius: 12px;
+	background-color: white;
+	color: black;
+	font-weight: 600;
+	padding: 6px 15px 8px;
+	font-size: 30px;
+}
+
+.link {
+    text-decoration: none;
+}
